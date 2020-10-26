@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.textile:grpc-ipfs-lite:0.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55a825c11a91c09ddb54683976a6c48d/grpc-ipfs-lite-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55a825c11a91c09ddb54683976a6c48d/grpc-ipfs-lite-0.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

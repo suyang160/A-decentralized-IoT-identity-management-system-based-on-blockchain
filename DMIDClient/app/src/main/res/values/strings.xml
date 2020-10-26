@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DMIDClient</string>
+    <string name="title_user">User</string>
+    <string name="title_device">Device</string>
+    <string name="title_credential">Credential</string>
+
+    <string name="search">Search</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="title_other_devices">Other devices available</string>
+    <string name="scanning">Searching the device...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No paired devices</string>
+    <string name="none_found">Undiscovered devices</string>
+    <string name="sendMessageButton">Send message</string>
+    <string name="not_connected">No connected device</string>
+
+    <string name="title_connecting">Being connected...</string>
+    <string name="title_connected_to">Connected:</string>
+    <string name="title_not_connected">Not connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth is not available. Leave the program</string>
+
+</resources>

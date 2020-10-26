@@ -1,0 +1,1 @@
+This directory just shows our did contract, will not be added to our LPC55S69 project to compile.

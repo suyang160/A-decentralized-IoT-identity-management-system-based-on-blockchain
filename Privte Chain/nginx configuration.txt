@@ -1,0 +1,32 @@
+user www-data;
+worker_processes auto;
+pid /run/nginx.pid;
+include /etc/nginx/modules-enabled/*.conf;
+
+events {
+	worker_connections 768;
+	# multi_accept on;
+}
+
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+    sendfile        on;
+    keepalive_timeout  65;
+
+    server {
+        #监听端口
+        listen       7410;
+        #监听地址
+        server_name  192.168.31.111;
+
+        location / {
+            proxy_pass  http://127.0.0.1:5001;
+        }
+        location /jian {
+            proxy_pass  https://www.jianshu.com/;
+        }
+    }
+
+
+}

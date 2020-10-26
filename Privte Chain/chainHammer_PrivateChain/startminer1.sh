@@ -1,0 +1,1 @@
+geth --identity "miner1" --networkid 42 --datadir "~/chainHammer_PrivateChain/datadir" --nodiscover --rpc --rpcapi="db,eth,net,web3,personal,web3" --rpcaddr "127.0.0.1" --rpcport "8545" --port "30303" --allow-insecure-unlock --unlock 0 --password ~/chainHammer_PrivateChain/password.sec --ipcpath "~/Library/Ethereum/geth.ipc" console 2>>eth_output.log

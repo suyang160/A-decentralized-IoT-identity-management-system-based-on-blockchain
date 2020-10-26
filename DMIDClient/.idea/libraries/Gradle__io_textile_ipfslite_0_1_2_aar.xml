@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.textile:ipfslite:0.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07d0f24f08bf77b8803a54c6392855e6/jetified-ipfslite-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07d0f24f08bf77b8803a54c6392855e6/jetified-ipfslite-0.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.textile/ipfslite/0.1.2/5b80a8f414506e638283692f7fabd130faa6afc5/ipfslite-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

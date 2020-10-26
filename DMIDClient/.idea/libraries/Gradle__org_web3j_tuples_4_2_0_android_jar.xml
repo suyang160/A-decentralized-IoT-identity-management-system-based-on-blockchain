@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.web3j:tuples:4.2.0-android@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/tuples/4.2.0-android/c6e8fba8ad0c3fa9d38ddcdbcd4a0440ed86765a/tuples-4.2.0-android.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/tuples/4.2.0-android/f025f65f3689676f1f730860e99e7b30c9c42794/tuples-4.2.0-android-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/tuples/4.2.0-android/4425787d746142449831646ca676cf7e6ac93d1c/tuples-4.2.0-android-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.web3j:crypto:4.2.0-android@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/crypto/4.2.0-android/7158ceb991948e6fbd9f7c87c5092d33978965b6/crypto-4.2.0-android.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/crypto/4.2.0-android/3fbc2d37e1156edc278f23fc9bb55b2764532ade/crypto-4.2.0-android-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/crypto/4.2.0-android/2cd772134c6279459ad097404f882fbb62c8bd83/crypto-4.2.0-android-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
